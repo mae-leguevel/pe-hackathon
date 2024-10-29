@@ -14,5 +14,6 @@
 # ---
 
 # %%
-import common.py
+import common
 
+# %%
